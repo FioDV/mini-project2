@@ -35,7 +35,7 @@ Make sure you have the following installed:
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/<your-username>/patient-management-api.git
+git clone https://github.com/FioDV/mini-project2.git
 cd patient-management-api
 ```
 
