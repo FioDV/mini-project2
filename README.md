@@ -36,7 +36,7 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/FioDV/mini-project2.git
-cd patient-management-api
+cd mini-project2
 ```
 
 2. **Install dependencies:**
